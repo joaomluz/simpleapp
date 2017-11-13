@@ -19,6 +19,7 @@ function requestApi(page) {
             result.results.forEach(renderCards);
             
         } else {
+            //TODO: Handle error
             console.log(result.status_code);
         }
     });

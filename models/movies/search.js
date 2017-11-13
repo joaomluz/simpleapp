@@ -1,5 +1,5 @@
 
-// Handle Upcomings Movies
+// Handle Movies Search
 
 var pageglobal = 1;
 var totalPages = 1;
